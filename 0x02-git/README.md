@@ -1,3 +1,3 @@
-## A read me in a sub directory
+##2nd readme
 
-Sub-directory read me
+read me too
